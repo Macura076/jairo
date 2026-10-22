@@ -1,0 +1,3 @@
+# permitidos.txt: quem pode receber a auto-resposta.
+# Um nome por linha, exatamente como aparece no WhatsApp. Vazio = auto-responder desligado.
+Maria Clara

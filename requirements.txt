@@ -1,0 +1,13 @@
+# Nucleo
+python-dotenv>=1.0
+selenium>=4.11
+SpeechRecognition>=3.10
+pyttsx3>=2.90
+PyAudio>=0.2.13
+
+# Python 3.13+ removeu o modulo audioop (usado pelo SpeechRecognition e pelo ganho automatico)
+audioop-lts; python_version >= "3.13"
+
+# Opcional: volume absoluto ("volume 50") e leitura do volume atual
+pycaw>=20230407
+comtypes>=1.2
