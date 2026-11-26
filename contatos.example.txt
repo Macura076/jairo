@@ -1,0 +1,11 @@
+# contatos.txt: copie este arquivo para a pasta definida em JAIRO_DIR e edite.
+#
+# Formato:  Nome:DDI+DDD+numero[:apelido1,apelido2]   (sem +, espacos ou tracos)
+#   - O nome falado e comparado sem acentos e sem diferenciar maiusculas.
+#   - Apelido exato tem prioridade sobre qualquer nome.
+#   - Se mais de um contato casar com o nome falado, o Jairo pede o nome completo.
+#   - Prefixo ! desativa um contato antigo sem apaga-lo.
+#
+Maria Clara:5511999990001:mari
+Joao Silva:5511999990002
+!Joao Antigo:5511999990003
